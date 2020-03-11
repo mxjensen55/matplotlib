@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # ## Observations and Insights
-Capomulin over-performed the competitors when treating mice with squamous cell carcinoma (SCC). It has shown to be very effective in decreasing tumor volume over a period of 45 days. Ramicane is the only medication that comes close to replicating the effectiveness of Capomulin. 
+# Capomulin over-performed the competitors when treating mice with squamous cell carcinoma (SCC). It has shown to be very effective in decreasing tumor volume over a period of 45 days. Ramicane is the only medication that comes close to replicating the effectiveness of Capomulin. 
 # ## Dependencies and starter code
 
 # In[1]:
